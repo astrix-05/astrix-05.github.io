@@ -1,74 +1,36 @@
-# Hi There 👋
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-I'm **Ankit Singh**, a passionate Computer Science student and full-stack developer from Punjab, India.
+## Getting Started
 
-## About Me
+First, run the development server:
 
-I'm currently pursuing my BE in Computer Science at **Chandigarh University** while actively building projects in **blockchain and Web3**, particularly on the **Solana ecosystem**. I love learning new technologies and contributing to open-source projects.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-🔗 **Skills & Expertise:**
-- **Blockchain & Web3**: Solana smart contracts, Anchor framework, DeFi protocols
-- **Full-Stack Development**: React, Next.js, Node.js, TypeScript
-- **Languages**: Rust, JavaScript/TypeScript, Python, C++, SQL
-- **Tools & Frameworks**: Vercel, GitHub, VS Code, Docker, Git
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🚀 Featured Projects
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-### **solana-private-vote**
-A secure, privacy-preserving voting system on Solana blockchain with Anchor smart contracts, React frontend, and Arcium-ready encryption for DAOs.
-- 🔗 [Repository](https://github.com/astrix-05/solana-private-vote)
-- Built with: Rust, Anchor, React, TypeScript
-- Status: Active development
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-### **SolSnippets**
-Developer-focused resource with hand-picked, battle-tested Solana code snippets to save time and reduce errors.
-- 🔗 [Repository](https://github.com/astrix-05/SolSnippets)
-- Built with: TypeScript
-- Status: Active
+## Learn More
 
-### **Worldwatch**
-AI-powered decentralized scam and spam detector for World App, leveraging Fluence DePIN and Web3 for real-time message, link, and transaction protection.
-- 🔗 [Repository](https://github.com/astrix-05/Worldwatch)
-- Status: Grant/Bounty submission
+To learn more about Next.js, take a look at the following resources:
 
-### **phantom-chat**
-Solana-native metadata-resistant messenger with post-quantum cryptography, integrated payment channels, and immutable on-chain audit trail.
-- 🔗 [Repository](https://github.com/astrix-05/phantom-chat)
-- Built with: Rust, Anchor
-- Status: Production-ready
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-### **near_cursor_helper**
-VS Code extension for rapid NEAR Rust smart contract development with intelligent scaffolding and templates.
-- 🔗 [Repository](https://github.com/astrix-05/near_cursor_helper)
-- Built with: TypeScript
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## 💼 What I'm Currently Working On
+## Deploy on Vercel
 
-- Building scalable Solana dApps
-- Contributing to blockchain security and privacy
-- Exploring advanced smart contract patterns
-- Learning system design and advanced algorithms
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## 📚 Education
-
-**B.E. Computer Science**  
-Chandigarh University (CUCHD)  
-Currently studying: Algorithms, Databases, System Design
-
-## 🎯 Goals
-
-- Master Solana ecosystem development
-- Contribute to significant open-source blockchain projects
-- Build products that solve real problems in Web3
-- Continue learning and growing as a developer
-
-## 📞 Let's Connect
-
-- 💌 **Email**: [ankitsingh6201@gmail.com](mailto:ankitsingh6201@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/astrix-05](https://linkedin.com/in/astrix-05)
-- 🐙 **GitHub**: [github.com/astrix-05](https://github.com/astrix-05)
-- 🌐 **Portfolio**: [astrikx.me](https://astrikx.me)
-
----
-
-*This is just the beginning of my development journey. Let's build amazing things together!* ✨
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
